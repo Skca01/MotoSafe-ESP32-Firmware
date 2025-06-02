@@ -201,7 +201,7 @@ const int ACKNOWLEDGE_TIMEOUT = 30000;
 
 ## 📱 Related Projects
 
-- **Android App**: [MotoSafe Mobile App](https://github.com/Skca01/motosafe-android) - Companion mobile application
+- **Android App**: [MotoSafe Mobile App](https://github.com/Skca01/MotoSafeAndroidStudio) - Companion mobile application
 
 ## 🐛 Troubleshooting
 
